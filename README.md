@@ -24,7 +24,7 @@ PPM Structure is really simple to understand.
 P3 `\n`
 width height`\n`
 255 `\n`
-RedColor GreenColor BlueColor
+"RedColor" "GreenColor" "BlueColor"
 
 # Author
 
